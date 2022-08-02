@@ -1,0 +1,21 @@
+.corn-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.corn-corn-cat {
+  width: auto;
+  height: auto;
+  font-size: 50px;
+  text-align: center;
+}
+.corn-video {
+  width: 649px;
+  height: 492px;
+  border-color: var(--dl-color-gray-black);
+  border-width: 0px;
+}
