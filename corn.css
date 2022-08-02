@@ -14,8 +14,6 @@
   text-align: center;
 }
 .corn-video {
-  width: 649px;
-  height: 492px;
-  border-color: var(--dl-color-gray-black);
-  border-width: 0px;
+  width: 575px;
+  height: 436px;
 }
